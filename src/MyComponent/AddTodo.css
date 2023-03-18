@@ -1,0 +1,37 @@
+.form-container {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  .form-input {
+    margin: 8px 0;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    font-size: 16px;
+  }
+  
+  .form-submit {
+    background-color: #3e8e41;
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    /* margin-top: 16px; */
+    
+  }
+  
+  .form-submit:hover {
+    background-color: #19d91f;
+  }
+  
