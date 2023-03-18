@@ -14,6 +14,7 @@ function AddTodo({AddYoutubeVideo}){
     function handleSubmit(e){
         e.preventDefault()
         AddYoutubeVideo(todo)
+        setTodo(initialValue)
 
     }
 

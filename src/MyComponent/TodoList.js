@@ -9,16 +9,7 @@ let TodoList = [
       title: "Akram",
       description: "hi Akram good morning..",
     },
-    {
-      id: 3,
-      title: "Hunain",
-      description: "hi Hunain good morning..",
-    },
-    {
-      id: 4,
-      title: "Asif",
-      description: "hi Asif good morning..",
-    }
+   
   ]
 
   export default TodoList
