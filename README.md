@@ -10,3 +10,5 @@
 **6: Event and Event handlers (Event bubling)**
 
 # after creating this project you will understand and cover all these topics..
+
+# Now we will further continue our project and take it to next level advance project in 2nd branch.
